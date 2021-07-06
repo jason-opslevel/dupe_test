@@ -11,6 +11,8 @@ service:
   description:
   aliases:
   tags:
+   - key: test
+   - value: test
   repositories:
   tools:
   dependencies:
