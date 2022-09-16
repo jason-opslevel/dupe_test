@@ -1,0 +1,15 @@
+---
+version: 1
+service:
+  name: dupe_test
+  lifecycle:
+  tier: tier_1
+  product:
+  owner: hh
+  language:
+  framework:
+  description: test 3
+  aliases:
+  tags:
+  tools:
+  dependencies:
