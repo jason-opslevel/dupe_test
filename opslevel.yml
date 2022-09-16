@@ -1,14 +1,14 @@
 ---
 version: 1
 service:
-  name: dupe_test
+  name: dupe test
   lifecycle:
-  tier: tier_1
+  tier: tier_2
   product:
   owner: hh
   language:
   framework:
-  description: test 3
+  description: test 4
   aliases:
   tags:
   tools:
